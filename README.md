@@ -10,4 +10,5 @@ It contains interview preparation notes provided by iNeuron
    My Fav.: [StatQuest](https://www.youtube.com/watch?v=pYxNSUDSFH4)
 4. Generative and discriminative. [Answer](https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-a-discriminative-algorithm)
 5. ML concepts and code. [Answer](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
+6. EM - Expectation-Maximization. [Answer](Expectation-Maximization)
 
