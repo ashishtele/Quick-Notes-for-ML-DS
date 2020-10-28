@@ -9,4 +9,5 @@ It contains interview preparation notes provided by iNeuron
 3. Probability vs. Likelihood. [Answer](https://stats.stackexchange.com/questions/2641/what-is-the-difference-between-likelihood-and-probability#2647)
    My Fav.: [StatQuest](https://www.youtube.com/watch?v=pYxNSUDSFH4)
 4. Generative and discriminative. [Answer](https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-a-discriminative-algorithm)
+5. ML concepts and code. [Answer](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
 
