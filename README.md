@@ -12,4 +12,5 @@ It contains interview preparation notes provided by iNeuron
 5. ML concepts and code. [Answer](https://ml-cheatsheet.readthedocs.io/en/latest/linear_regression.html)
 6. EM - Expectation-Maximization. [Answer](Expectation-Maximization)
 7. Random Forest. [Answer](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) 
+8. Regression - Type of change. [Answer](https://web.stanford.edu/~mrosenfe/soc_meth_proj3/soc_180B_regression_whatchanges.htm)
 
