@@ -14,3 +14,7 @@ It contains interview preparation notes provided by iNeuron
 7. Random Forest. [Answer](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) 
 8. Regression - Type of change. [Answer](https://web.stanford.edu/~mrosenfe/soc_meth_proj3/soc_180B_regression_whatchanges.htm)
 
+## Useful blogs to refer:
+
+1. Martin Henze (Heads or Tails). [Blog](https://heads0rtai1s.github.io/2020/11/05/r-python-dplyr-pandas/)
+
