@@ -17,4 +17,5 @@ It contains interview preparation notes provided by iNeuron
 ## Useful blogs to refer:
 
 1. Martin Henze (Heads or Tails). [Blog](https://heads0rtai1s.github.io/2020/11/05/r-python-dplyr-pandas/)
+2. Python Snippets. [Link](https://github.com/dushyantkhosla/python-snippets)
 
