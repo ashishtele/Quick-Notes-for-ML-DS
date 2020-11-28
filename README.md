@@ -1,5 +1,5 @@
 # Quick-Notes-for-ML-DS
-It contains interview preparation notes provided by iNeuron
+It contains interview preparation notes provided by iNeuron.
 
 
 ## Important Concepts:
