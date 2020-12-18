@@ -13,6 +13,7 @@ It contains interview preparation notes provided by iNeuron.
 6. EM - Expectation-Maximization. [Answer](Expectation-Maximization)
 7. Random Forest. [Answer](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) 
 8. Regression - Type of change. [Answer](https://web.stanford.edu/~mrosenfe/soc_meth_proj3/soc_180B_regression_whatchanges.htm)
+9. Pearson vs Spearman vs Kendall: [Stackexchange](https://datascience.stackexchange.com/questions/64260/pearson-vs-spearman-vs-kendall)
 
 ## Useful blogs to refer:
 
