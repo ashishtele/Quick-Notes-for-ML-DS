@@ -21,4 +21,5 @@ It contains interview preparation notes provided by iNeuron.
 2. Python Snippets. [Link](https://github.com/dushyantkhosla/python-snippets)
 3. PandasVault. [Link](https://github.com/firmai/pandasvault#shift-columns-to-front)
 4. Python Engineer. [Twitter](https://twitter.com/python_engineer)
+5. Paired vs Unpaired data: [link](https://socratic.org/questions/what-is-a-paired-and-unpaired-t-test-what-are-the-differences)
 
