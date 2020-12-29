@@ -14,6 +14,7 @@ It contains interview preparation notes provided by iNeuron.
 7. Random Forest. [Answer](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ) 
 8. Regression - Type of change. [Answer](https://web.stanford.edu/~mrosenfe/soc_meth_proj3/soc_180B_regression_whatchanges.htm)
 9. Pearson vs Spearman vs Kendall: [Stackexchange](https://datascience.stackexchange.com/questions/64260/pearson-vs-spearman-vs-kendall)
+10. Gain and Lift Charts. [listendata](https://www.listendata.com/2014/08/excel-template-gain-and-lift-charts.html)
 
 ## Useful blogs to refer:
 
