@@ -26,3 +26,4 @@ It contains interview preparation notes provided by iNeuron.
 5. Paired vs Unpaired data: [link](https://socratic.org/questions/what-is-a-paired-and-unpaired-t-test-what-are-the-differences)
 6. Data informed product building: [Link](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
 7. Metric: [Link](https://productlessons.substack.com/p/what-to-do-when-your-metrics-dip), [Link](https://igotanoffer.com/blogs/product-manager/product-metric-interview-questions)
+8. Into to Linear Algebra: [Link](https://pabloinsente.github.io/intro-linear-algebra)
