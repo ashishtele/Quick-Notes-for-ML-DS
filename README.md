@@ -28,3 +28,4 @@ It contains interview preparation notes provided by iNeuron.
 7. Metric: [Link](https://productlessons.substack.com/p/what-to-do-when-your-metrics-dip), [Link](https://igotanoffer.com/blogs/product-manager/product-metric-interview-questions)
 8. Into to Linear Algebra: [Link](https://pabloinsente.github.io/intro-linear-algebra)
 9. IMS data sources: [Link](https://csimarket.com/stocks/segments.php?code=RX)
+10. Predictive model performance check: [ListenData](https://www.listendata.com/2015/01/model-performance-in-logistic-regression.html)
