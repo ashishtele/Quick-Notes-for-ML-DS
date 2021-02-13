@@ -25,7 +25,7 @@ It contains interview preparation notes provided by iNeuron.
 4. Python Engineer. [Twitter](https://twitter.com/python_engineer)
 5. Paired vs Unpaired data: [link](https://socratic.org/questions/what-is-a-paired-and-unpaired-t-test-what-are-the-differences)
 6. Data informed product building: [Link](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
-7. Metric: [Link](https://productlessons.substack.com/p/what-to-do-when-your-metrics-dip), [Link](https://igotanoffer.com/blogs/product-manager/product-metric-interview-questions)
+7. Metric: [Link](https://productlessons.substack.com/p/what-to-do-when-your-metrics-dip), [Link](https://igotanoffer.com/blogs/product-manager/product-metric-interview-questions),[SQL](https://quip.com/2gwZArKuWk7W)
 8. Into to Linear Algebra: [Link](https://pabloinsente.github.io/intro-linear-algebra)
 9. IMS data sources: [Link](https://csimarket.com/stocks/segments.php?code=RX)
 10. Predictive model performance check: [ListenData](https://www.listendata.com/2015/01/model-performance-in-logistic-regression.html)
