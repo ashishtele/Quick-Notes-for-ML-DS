@@ -31,3 +31,4 @@ It contains interview preparation notes provided by iNeuron.
 10. Predictive model performance check: [ListenData](https://www.listendata.com/2015/01/model-performance-in-logistic-regression.html)
 11. Case Study: [Link](https://hackingthecaseinterview.thinkific.com/pages/market-entry-case-interview)
 12.  Collection of cases: [Link](https://hackingthecaseinterview.thinkific.com/pages/articles)
+13.  Gradient Boosting: [Link](https://www.youtube.com/watch?v=3CC4N4z3GJc&ab_channel=StatQuestwithJoshStarmer)
