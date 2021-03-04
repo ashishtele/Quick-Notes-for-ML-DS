@@ -17,6 +17,7 @@ It contains interview preparation notes provided by iNeuron.
 10. Gain and Lift Charts. [listendata](https://www.listendata.com/2014/08/excel-template-gain-and-lift-charts.html)
 11. Statistical Hypothesis tests in Python. [Jason](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
 12. Machine learning system design. [Link](https://huyenchip.com/machine-learning-systems-design/toc.html)
+13. A/B Testing. [Link](https://nancyyanyu.github.io/posts/17c5bb19/)
 
 ## Useful blogs to refer:
 
