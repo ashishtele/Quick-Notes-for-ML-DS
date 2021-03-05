@@ -18,6 +18,7 @@ It contains interview preparation notes provided by iNeuron.
 11. Statistical Hypothesis tests in Python. [Jason](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
 12. Machine learning system design. [Link](https://huyenchip.com/machine-learning-systems-design/toc.html)
 13. A/B Testing. [Link](https://nancyyanyu.github.io/posts/17c5bb19/)
+14. Product Questions. [Quora](https://www.quora.com/profile/Teng-Lu-1/answers)
 
 ## Useful blogs to refer:
 
