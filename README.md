@@ -35,3 +35,4 @@ It contains interview preparation notes provided by iNeuron.
 11. Case Study: [Link](https://hackingthecaseinterview.thinkific.com/pages/market-entry-case-interview)
 12.  Collection of cases: [Link](https://hackingthecaseinterview.thinkific.com/pages/articles), [GAME](https://hackernoon.com/metrics-game-framework-5e3dce1be8ac)
 13.  Gradient Boosting: [Link](https://www.youtube.com/watch?v=3CC4N4z3GJc&ab_channel=StatQuestwithJoshStarmer)
+14.  Federated learning: [Link](https://www.quora.com/What-is-federated-learning)
