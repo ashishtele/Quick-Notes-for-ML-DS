@@ -20,6 +20,7 @@ It contains interview preparation notes provided by iNeuron.
 13. A/B Testing. [Link](https://nancyyanyu.github.io/posts/17c5bb19/)
 14. Product Questions. [Quora](https://www.quora.com/profile/Teng-Lu-1/answers)
 15. Random Forest to Layman. [Quora](https://www.quora.com/How-does-randomization-in-a-random-forest-work)
+16. ANOVA, ANCOVA etc. [Link](http://www.statsmakemecry.com/smmctheblog/stats-soup-anova-ancova-manova-mancova)
 
 ## Useful blogs to refer:
 
