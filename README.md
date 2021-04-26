@@ -39,4 +39,4 @@ It contains interview preparation notes provided by iNeuron.
 13.  Gradient Boosting: [Link](https://www.youtube.com/watch?v=3CC4N4z3GJc&ab_channel=StatQuestwithJoshStarmer)
 14.  Federated learning: [Link](https://www.quora.com/What-is-federated-learning)
 15.  MLOps: [Link](https://github.com/GokuMohandas/madewithml)
-16.  Mixed Effect Models: [Link](https://towardsdatascience.com/how-linear-mixed-model-works-350950a82911)
+16.  Mixed Effect Models: [Link](https://towardsdatascience.com/how-linear-mixed-model-works-350950a82911), [Link1](https://medium.com/analytics-vidhya/introduction-to-mixed-models-208f012aa865)
