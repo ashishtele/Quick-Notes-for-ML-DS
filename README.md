@@ -37,7 +37,7 @@ It contains interview preparation notes provided by iNeuron.
 11. Case Study: [Link](https://hackingthecaseinterview.thinkific.com/pages/market-entry-case-interview)
 12.  Collection of cases: [Link](https://hackingthecaseinterview.thinkific.com/pages/articles), [GAME](https://hackernoon.com/metrics-game-framework-5e3dce1be8ac)
 13.  Gradient Boosting: [Link](https://www.youtube.com/watch?v=3CC4N4z3GJc&ab_channel=StatQuestwithJoshStarmer)
-14.  Federated learning: [Link](https://www.quora.com/What-is-federated-learning)
+14.  Federated learning: [Link](https://www.quora.com/What-is-federated-learning), [Link2](https://federated.withgoogle.com/)
 15.  MLOps: [Link](https://github.com/GokuMohandas/madewithml)
 16.  Mixed Effect Models: [Link](https://towardsdatascience.com/how-linear-mixed-model-works-350950a82911), [Link1](https://medium.com/analytics-vidhya/introduction-to-mixed-models-208f012aa865)
 17.  ML System feature store: [Link](https://medium.com/data-for-ai/comprehensive-and-comparative-list-of-feature-store-architectures-for-data-scientists-and-big-data-86ea8c4d853b)
