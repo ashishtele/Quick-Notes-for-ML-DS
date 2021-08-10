@@ -21,6 +21,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 14. Product Questions. [Quora](https://www.quora.com/profile/Teng-Lu-1/answers)
 15. Random Forest to Layman. [Quora](https://www.quora.com/How-does-randomization-in-a-random-forest-work)
 16. ANOVA, ANCOVA etc. [Link](http://www.statsmakemecry.com/smmctheblog/stats-soup-anova-ancova-manova-mancova)
+17. ML System Design Template [Link](https://www.mle-interviews.com/ml-design-template)
 
 ## Useful blogs to refer:
 
