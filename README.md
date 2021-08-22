@@ -42,3 +42,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 15.  MLOps: [Link](https://github.com/GokuMohandas/madewithml)
 16.  Mixed Effect Models: [Link](https://towardsdatascience.com/how-linear-mixed-model-works-350950a82911), [Link1](https://medium.com/analytics-vidhya/introduction-to-mixed-models-208f012aa865)
 17.  ML System feature store: [Link](https://medium.com/data-for-ai/comprehensive-and-comparative-list-of-feature-store-architectures-for-data-scientists-and-big-data-86ea8c4d853b)
+
+## ML System Design:
+
+1. Framework [Link](https://leetcode.com/discuss/interview-question/system-design/566057/machine-learning-system-design-a-framework-for-the-interview-day)
