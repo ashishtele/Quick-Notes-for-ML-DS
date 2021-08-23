@@ -46,3 +46,4 @@ It contains interview preparation notes provided by iNeuron, article links.
 ## ML System Design:
 
 1. Framework [Link](https://leetcode.com/discuss/interview-question/system-design/566057/machine-learning-system-design-a-framework-for-the-interview-day)
+2. Product minded ML design. [Link](https://www.youtube.com/watch?v=Hv54e-9XnZ0&ab_channel=AssociationforComputingMachinery%28ACM%29)
