@@ -49,3 +49,4 @@ It contains interview preparation notes provided by iNeuron, article links.
 2. Product minded ML design. [Link](https://www.youtube.com/watch?v=Hv54e-9XnZ0&ab_channel=AssociationforComputingMachinery%28ACM%29)
 3. ML Design [Link](https://github.com/khangich/machine-learning-interview/blob/master/design.md)
 4. MLE Book [Link](http://www.mlebook.com/wiki/doku.php)
+5. ML System design [Link](https://becominghuman.ai/machine-learning-system-design-f2f4018f2f8)
