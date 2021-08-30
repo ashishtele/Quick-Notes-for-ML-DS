@@ -50,3 +50,4 @@ It contains interview preparation notes provided by iNeuron, article links.
 3. ML Design [Link](https://github.com/khangich/machine-learning-interview/blob/master/design.md)
 4. MLE Book [Link](http://www.mlebook.com/wiki/doku.php)
 5. ML System design [Link](https://becominghuman.ai/machine-learning-system-design-f2f4018f2f8)
+6. Full stack deep learning [Link](https://fall2019.fullstackdeeplearning.com/)
