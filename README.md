@@ -54,3 +54,4 @@ It contains interview preparation notes provided by iNeuron, article links.
 7. Production Machine Learning Problems [Link](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46178.pdf)
 8. ML System Design Resources [Link](https://www.teamblind.com/post/Machine-learning-engineering-and-ML-systems-design-resources-master-list-gWY7ZUTT)
 9. Metric Question [Link](https://medium.com/datainterview/principles-and-frameworks-of-product-metrics-youtube-case-study-ff63257a82d3)
+10. Product Matrics [Link](https://medium.com/datainterview/principles-and-frameworks-of-product-metrics-youtube-case-study-ff63257a82d3)
