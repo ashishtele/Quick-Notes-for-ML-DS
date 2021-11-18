@@ -58,3 +58,4 @@ It contains interview preparation notes provided by iNeuron, article links.
 9. Metric Question [Link](https://medium.com/datainterview/principles-and-frameworks-of-product-metrics-youtube-case-study-ff63257a82d3)
 10. Product Matrics [Link](https://medium.com/datainterview/principles-and-frameworks-of-product-metrics-youtube-case-study-ff63257a82d3)
 11. ML Stack Template [Link](https://ml-ops.org/content/state-of-mlops)
+12. ML Design [Link](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
