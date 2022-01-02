@@ -45,6 +45,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 18.  Data Science Cheat Sheet: [Link](https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html)
 19.  Things can go wrong: [Link](https://towardsdatascience.com/51-things-that-can-go-wrong-in-a-real-world-ml-project-c36678065a75)
 20.  Transformers from scratch [Link](https://e2eml.school/transformers.html)
+21.  Dive into Deep Learning [Link](https://d2l.ai/chapter_preface/index.html)
 
 ## ML System Design:
 
