@@ -46,6 +46,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 19.  Things can go wrong: [Link](https://towardsdatascience.com/51-things-that-can-go-wrong-in-a-real-world-ml-project-c36678065a75)
 20.  Transformers from scratch [Link](https://e2eml.school/transformers.html)
 21.  Dive into Deep Learning [Link](https://d2l.ai/chapter_preface/index.html)
+22.  DL Interview [Link](https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf)
 
 ## ML System Design:
 
