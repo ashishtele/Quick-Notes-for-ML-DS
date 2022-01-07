@@ -47,6 +47,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 20.  Transformers from scratch [Link](https://e2eml.school/transformers.html)
 21.  Dive into Deep Learning [Link](https://d2l.ai/chapter_preface/index.html)
 22.  DL Interview [Link](https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf)
+23.  DL Rules of Thumb [Link](https://jeffmacaluso.github.io/post/DeepLearningRulesOfThumb/)
 
 ## ML System Design:
 
