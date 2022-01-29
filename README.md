@@ -48,6 +48,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 21.  Dive into Deep Learning [Link](https://d2l.ai/chapter_preface/index.html)
 22.  DL Interview [Link](https://arxiv.org/ftp/arxiv/papers/2201/2201.00650.pdf)
 23.  DL Rules of Thumb [Link](https://jeffmacaluso.github.io/post/DeepLearningRulesOfThumb/)
+24.  ML Forecasting [Link](https://towardsdatascience.com/ml-time-series-forecasting-the-right-way-cbf3678845ff)
 
 ## ML System Design:
 
