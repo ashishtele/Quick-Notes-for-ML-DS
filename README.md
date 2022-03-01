@@ -17,7 +17,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 10. Gain and Lift Charts. [listendata](https://www.listendata.com/2014/08/excel-template-gain-and-lift-charts.html)
 11. Statistical Hypothesis tests in Python. [Jason](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
 12. Machine learning system design. [Link](https://huyenchip.com/machine-learning-systems-design/toc.html)
-13. A/B Testing. [Link](https://nancyyanyu.github.io/posts/17c5bb19/)
+13. A/B Testing. [Link](https://nancyyanyu.github.io/posts/17c5bb19/), [Link](https://www.youtube.com/watch?v=DUNk4GPZ9bw&ab_channel=DataInterview)
 14. Product Questions. [Quora](https://www.quora.com/profile/Teng-Lu-1/answers)
 15. Random Forest to Layman. [Quora](https://www.quora.com/How-does-randomization-in-a-random-forest-work)
 16. ANOVA, ANCOVA etc. [Link](http://www.statsmakemecry.com/smmctheblog/stats-soup-anova-ancova-manova-mancova)
