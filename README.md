@@ -65,3 +65,30 @@ It contains interview preparation notes provided by iNeuron, article links.
 10. Product Matrics [Link](https://medium.com/datainterview/principles-and-frameworks-of-product-metrics-youtube-case-study-ff63257a82d3)
 11. ML Stack Template [Link](https://ml-ops.org/content/state-of-mlops)
 12. ML Design [Link](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
+
+## Useful LinkedIn Posts:
+
+Understand the business context first, don't over-excited about the tech, and jumped into coding too early. 
+
+When someone asks you for a model, always ask:
+
+👉 why do you need it? 
+
+👉 what is your current solution (e.g. what is the baseline to beat)?
+
+👉 who is going to use the predictions and how?
+
+👉 what is the financial impact of the model’s downtime or mistakes?
+
+👉 which metrics do we care about to measure what?
+
+Once you have your answers, back them up with a solid exploratory data analysis, and, when done, loop in the biz team again.
+
+
+This is a critical moment as your results will translate into 3 potential outcomes:
+
+💡 “Really? This contradicts what I thought. Well, in this case, the ML model doesn’t make much sense anymore”. You are off the hook without a single line of code 🔴
+
+💡 “Ah, interesting. I guess we’ll have to change requirements/scope then.” Course-correct before moving forward 🟠
+
+💡 “This is what I expected. Let’s go ahead”. Green light 🟢
