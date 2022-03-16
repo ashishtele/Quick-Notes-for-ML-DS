@@ -66,6 +66,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 11. ML Stack Template [Link](https://ml-ops.org/content/state-of-mlops)
 12. Patrick Halina - ML Design [Link](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
 13. ML Interview [Link](https://github.com/alirezadir/machine-learning-interview-enlightener)
+14. ML Cheat Sheet [Link](https://sites.google.com/view/datascience-cheat-sheets/machine-learning_1)
 
 ## Useful LinkedIn Posts:
 
