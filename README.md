@@ -51,6 +51,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 24.  ML Forecasting [Link](https://towardsdatascience.com/ml-time-series-forecasting-the-right-way-cbf3678845ff)
 25.  MLOps without much Ops [Link](https://towardsdatascience.com/mlops-without-much-ops-d17f502f76e8)
 26.  Rules of Machine Learning by Google [Link](https://developers.google.com/machine-learning/guides/rules-of-ml)
+27.  Product Management for AI [Link](https://www.oreilly.com/radar/product-management-for-ai/)
 
 ## ML System Design:
 
