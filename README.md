@@ -73,7 +73,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 
 ## Useful LinkedIn Posts:
 
-Understand the business context first, don't over-excited about the tech, and jumped into coding too early. 
+Understand the business context first, don't get over-excited about the tech, and jump into coding too early. 
 
 When someone asks you for a model, always ask:
 
