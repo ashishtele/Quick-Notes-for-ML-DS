@@ -70,6 +70,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 13. ML Interview [Link](https://github.com/alirezadir/machine-learning-interview-enlightener)
 14. ML Cheat Sheet [Link](https://sites.google.com/view/datascience-cheat-sheets/machine-learning_1)
 15. ML Project Timelines [Link](https://docs.google.com/document/d/1D-M6nxeLnIaFufS-u2Ymp45AYB9eEmVHZno7G2F545U/edit)
+16. ML in Production [Link](https://mlinproduction.com/)
 
 ## Useful LinkedIn Posts:
 
