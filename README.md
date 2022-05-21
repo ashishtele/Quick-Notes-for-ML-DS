@@ -71,6 +71,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 14. ML Cheat Sheet [Link](https://sites.google.com/view/datascience-cheat-sheets/machine-learning_1)
 15. ML Project Timelines [Link](https://docs.google.com/document/d/1D-M6nxeLnIaFufS-u2Ymp45AYB9eEmVHZno7G2F545U/edit)
 16. ML in Production [Link](https://mlinproduction.com/)
+17. MLOps Paper [Link](https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf)
 
 ## Useful LinkedIn Posts:
 
