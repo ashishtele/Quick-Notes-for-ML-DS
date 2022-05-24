@@ -52,6 +52,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 25.  MLOps without much Ops [Link](https://towardsdatascience.com/mlops-without-much-ops-d17f502f76e8)
 26.  Rules of Machine Learning by Google [Link](https://developers.google.com/machine-learning/guides/rules-of-ml)
 27.  Product Management for AI [Link](https://www.oreilly.com/radar/product-management-for-ai/)
+28.  Feature Engineering and stacking [Link](https://www.kaggle.com/code/solegalli/feature-engineering-and-model-stacking/notebook)
 
 ## ML System Design:
 
