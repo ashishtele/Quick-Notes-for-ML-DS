@@ -1,8 +1,6 @@
 # Quick-Notes-for-ML-DS
 It contains interview preparation notes provided by iNeuron, article links.
 
-https://udemy-certificate.s3.amazonaws.com/image/UC-10a9f2eb-bdf1-4053-b74f-1e3820c1f22f.jpg
-
 ## Important Concepts:
 
 1. What is the difference between filter, wrapper, and embedded methods for feature selection? [Answer](https://sebastianraschka.com/faq/docs/feature_sele_categories.html)
