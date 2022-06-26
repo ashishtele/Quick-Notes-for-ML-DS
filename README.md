@@ -21,6 +21,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 15. Random Forest to Layman. [Quora](https://www.quora.com/How-does-randomization-in-a-random-forest-work)
 16. ANOVA, ANCOVA etc. [Link](http://www.statsmakemecry.com/smmctheblog/stats-soup-anova-ancova-manova-mancova)
 17. ML System Design Template [Link](https://www.mle-interviews.com/ml-design-template)
+18. PM Technical Concepts [Link](https://divyacohen.medium.com/how-to-prepare-for-googles-product-management-technical-round-when-you-are-not-technical-474de3ee01b3)
 
 ## Useful blogs to refer:
 
