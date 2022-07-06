@@ -22,6 +22,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 16. ANOVA, ANCOVA etc. [Link](http://www.statsmakemecry.com/smmctheblog/stats-soup-anova-ancova-manova-mancova)
 17. ML System Design Template [Link](https://www.mle-interviews.com/ml-design-template)
 18. PM Technical Concepts [Link](https://divyacohen.medium.com/how-to-prepare-for-googles-product-management-technical-round-when-you-are-not-technical-474de3ee01b3)
+19. Trustworthy Online Controlled Experiments [Link](https://www.amazon.com/gp/product/1108724264/ref=as_li_tl?ie=UTF8&tag=rdy-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1108724264&linkId=ec7f21541818587686159b0d44e4f63d)
 
 ## Useful blogs to refer:
 
