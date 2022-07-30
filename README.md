@@ -1,4 +1,4 @@
-# Quick-Notes-for-ML-DS 🔥
+# 🔥 Quick-Notes-for-ML-DS 🔥
 It contains interview preparation notes provided by iNeuron, article links.
 
 ## Important Concepts:
