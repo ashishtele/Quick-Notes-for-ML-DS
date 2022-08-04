@@ -60,6 +60,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 31.  There is only one test [Link](https://towardsdatascience.com/data-scientists-need-to-know-just-one-statistical-test-3115b2ff26fd)
 32.  Engineering Practices for DS [Link](https://valohai.com/engineering-practices-ebook/)
 33.  MLE Flashcards [Link](https://github.com/b7leung/MLE-Flashcards)
+34.  Time Series Forecasting [Link](https://github.com/KishManani/DataTalksClub2022/blob/main/Feature%20engineering%20for%20time%20series%20forecasting%20DataTalksClub.pdf)
 
 ## ML System Design:
 
