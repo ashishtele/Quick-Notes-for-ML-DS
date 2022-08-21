@@ -82,6 +82,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 16. ML in Production [Link](https://mlinproduction.com/)
 17. MLOps Paper [Link](https://arxiv.org/ftp/arxiv/papers/2205/2205.02302.pdf)
 18. MLOps Questions [Link](https://hashdork.com/top-mlops-interview-questions/)
+19. System Design Videos [Link](https://www.youtube.com/c/ByteByteGo/videos)
 
 ## Useful LinkedIn Posts:
 
