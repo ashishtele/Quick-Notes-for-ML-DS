@@ -109,3 +109,10 @@ This is a critical moment as your results will translate into 3 potential outcom
 💡 “Ah, interesting. I guess we’ll have to change requirements/scope then.” Course-correct before moving forward 🟠
 
 💡 “This is what I expected. Let’s go ahead”. Green light 🟢
+
+
+[Vin Vashishta:](https://www.linkedin.com/in/vineetvashishta/)
+
+“Next year, we have the opportunity to deliver $X in costs savings and revenue.
+Last year we delivered B projects resulting in C revenue and D cost savings.
+We plan to grow that by E%, requiring an F% increase in our total budget to execute.”
