@@ -1,4 +1,4 @@
-# 🔥 Quick Notes for ML DS MLOps 🔥
+# 🔥 Quick Notes for ML DS DL MLOps 🔥
 It contains interview preparation notes provided by iNeuron, article links.
 
 ## Important Concepts:
