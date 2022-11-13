@@ -63,6 +63,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 34.  Time Series Forecasting [Link](https://github.com/KishManani/DataTalksClub2022/blob/main/Feature%20engineering%20for%20time%20series%20forecasting%20DataTalksClub.pdf)
 35. MLStack.Cafe [Link](https://www.mlstack.cafe/)
 36. Agile data science [Link](https://towardsdatascience.com/my-best-tips-for-agile-data-science-research-b40365cc979d)
+37. Matt Mochary Method [Link](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/preview?pru=AAABhJXMgQo*wpkvH9cihXuCqm_7HASBVw)
 
 ## ML System Design:
 
