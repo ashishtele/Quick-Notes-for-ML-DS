@@ -64,6 +64,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 35. MLStack.Cafe [Link](https://www.mlstack.cafe/)
 36. Agile data science [Link](https://towardsdatascience.com/my-best-tips-for-agile-data-science-research-b40365cc979d)
 37. Matt Mochary Method [Link](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/preview?pru=AAABhJXMgQo*wpkvH9cihXuCqm_7HASBVw)
+38. Nubank [Link](https://building.nubank.com.br/data/data-science-machine-learning/)
 
 ## ML System Design:
 
