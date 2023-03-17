@@ -91,6 +91,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 20. Instacart MLOps [Link](https://tech.instacart.com/lessons-learned-the-journey-to-real-time-machine-learning-at-instacart-942f3a656af3)
 21. ML Tests [Link](https://github.com/microsoft/recommenders/tree/main/tests)
 22. Operationalizing Machine Learning [Link](https://arxiv.org/pdf/2209.09125.pdf)
+23. Swirlai [Link](https://www.newsletter.swirlai.com/archive?sort=new)
 
 ## Useful LinkedIn Posts:
 
