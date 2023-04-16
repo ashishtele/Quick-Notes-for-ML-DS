@@ -92,6 +92,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 21. ML Tests [Link](https://github.com/microsoft/recommenders/tree/main/tests)
 22. Operationalizing Machine Learning [Link](https://arxiv.org/pdf/2209.09125.pdf)
 23. Swirlai [Link](https://www.newsletter.swirlai.com/archive?sort=new)
+24. Twitter Recommendation [Link](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 
 ## Useful LinkedIn Posts:
 
