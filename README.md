@@ -94,6 +94,10 @@ It contains interview preparation notes provided by iNeuron, article links.
 23. Swirlai [Link](https://www.newsletter.swirlai.com/archive?sort=new)
 24. Twitter Recommendation [Link](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 
+## Foundation Models
+
+1. Stanford LLM [Link](https://stanford-cs324.github.io/winter2023/)
+
 ## Useful LinkedIn Posts:
 
 Understand the business context first, don't get over-excited about the tech, and jump into coding too early. 
