@@ -97,6 +97,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 ## Foundation Models
 
 1. Stanford LLM [Link](https://stanford-cs324.github.io/winter2023/)
+2. Better Product Search [Link](https://www.databricks.com/blog/enhancing-product-search-large-language-models-llms.html)
 
 ## Useful LinkedIn Posts:
 
