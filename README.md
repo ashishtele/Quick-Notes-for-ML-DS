@@ -98,6 +98,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 
 1. Stanford LLM [Link](https://stanford-cs324.github.io/winter2023/)
 2. Better Product Search [Link](https://www.databricks.com/blog/enhancing-product-search-large-language-models-llms.html)
+3. Natural Language Processing with Deep Learning [Link](https://web.stanford.edu/class/cs224n/index.html?utm_source=substack&utm_medium=email#schedule)
 
 ## Useful LinkedIn Posts:
 
