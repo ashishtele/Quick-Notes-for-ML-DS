@@ -100,6 +100,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 2. Better Product Search [Link](https://www.databricks.com/blog/enhancing-product-search-large-language-models-llms.html)
 3. Natural Language Processing with Deep Learning [Link](https://web.stanford.edu/class/cs224n/index.html?utm_source=substack&utm_medium=email#schedule)
 4. Chat2Vis [Link](https://github.com/frog-land/Chat2VIS_Streamlit/blob/main/classes.py)
+5. RAG vs Fine-tuning [Link](https://arxiv.org/pdf/2401.08406.pdf)
 
 ## Useful LinkedIn Posts:
 
