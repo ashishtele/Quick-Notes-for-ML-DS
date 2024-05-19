@@ -1,5 +1,5 @@
 # 🔥 Quick Notes for ML, DS, DL, MLOps 🔥
-It contains interview preparation notes provided by iNeuron, article links.
+It contains interview preparation notes provided by iNeuron, and article links.
 
 ## Important Concepts:
 
@@ -33,7 +33,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 3. PandasVault. [Link](https://github.com/firmai/pandasvault#shift-columns-to-front)
 4. Python Engineer. [Twitter](https://twitter.com/python_engineer)
 5. Paired vs Unpaired data: [link](https://socratic.org/questions/what-is-a-paired-and-unpaired-t-test-what-are-the-differences)
-6. Data informed product building: [Link](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
+6. Data-informed product building: [Link](https://medium.com/sequoia-capital/data-informed-product-building-1e509a5c4112)
 7. Metric: [Link](https://productlessons.substack.com/p/what-to-do-when-your-metrics-dip), [Link](https://igotanoffer.com/blogs/product-manager/product-metric-interview-questions),[SQL](https://quip.com/2gwZArKuWk7W)
 8. Into to Linear Algebra: [Link](https://pabloinsente.github.io/intro-linear-algebra)
 9. IMS data sources: [Link](https://csimarket.com/stocks/segments.php?code=RX)
@@ -101,6 +101,7 @@ It contains interview preparation notes provided by iNeuron, article links.
 3. Natural Language Processing with Deep Learning [Link](https://web.stanford.edu/class/cs224n/index.html?utm_source=substack&utm_medium=email#schedule)
 4. Chat2Vis [Link](https://github.com/frog-land/Chat2VIS_Streamlit/blob/main/classes.py)
 5. RAG vs Fine-tuning [Link](https://arxiv.org/pdf/2401.08406.pdf)
+6. Practical RAG [Link](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-1-basics)
 
 ## Useful LinkedIn Posts:
 
