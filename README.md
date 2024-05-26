@@ -102,6 +102,7 @@ It contains interview preparation notes provided by iNeuron, and article links.
 4. Chat2Vis [Link](https://github.com/frog-land/Chat2VIS_Streamlit/blob/main/classes.py)
 5. RAG vs Fine-tuning [Link](https://arxiv.org/pdf/2401.08406.pdf)
 6. Practical RAG [Link](https://huggingface.co/blog/hrishioa/retrieval-augmented-generation-1-basics)
+7. LLM Zoomcamp [Link](https://github.com/DataTalksClub/llm-zoomcamp)
 
 ## Useful LinkedIn Posts:
 
