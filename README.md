@@ -105,6 +105,7 @@ It contains interview preparation notes provided by iNeuron and article links.
 7. LLM Zoomcamp [Link](https://github.com/DataTalksClub/llm-zoomcamp)
 8. What We Learned from a Year of Building with LLMs [Link](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/) [Link](https://applied-llms.org/)
 9. LongRAG [Link](https://arxiv.org/abs/2406.15319)
+10. RouteLLM [Link](https://arxiv.org/pdf/2406.18665)
 
 ## Useful LinkedIn Posts:
 
