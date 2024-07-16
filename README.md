@@ -106,6 +106,7 @@ It contains interview preparation notes provided by iNeuron and article links.
 8. What We Learned from a Year of Building with LLMs [Link](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/) [Link](https://applied-llms.org/)
 9. LongRAG [Link](https://arxiv.org/abs/2406.15319)
 10. RouteLLM [Link](https://arxiv.org/pdf/2406.18665)
+11. ColPali: Efficient Document Retrieval with Vision Language Models [Link](https://arxiv.org/abs/2407.01449)
 
 ## Useful LinkedIn Posts:
 
