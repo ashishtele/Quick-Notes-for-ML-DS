@@ -108,7 +108,7 @@ It contains interview preparation notes provided by iNeuron and article links.
 10. RouteLLM [Link](https://arxiv.org/pdf/2406.18665)
 11. ColPali: Efficient Document Retrieval with Vision Language Models [Link](https://arxiv.org/abs/2407.01449)
 
-## Useful LinkedIn Posts:
+### Useful LinkedIn Posts:
 
 Understand the business context first, don't get over-excited about the tech, and jump into coding too early. 
 When someone asks you for a model, always ask:
