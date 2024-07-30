@@ -109,6 +109,7 @@ It contains interview preparation notes provided by iNeuron and article links.
 11. ColPali: Efficient Document Retrieval with Vision Language Models [Link](https://arxiv.org/abs/2407.01449)
 12. LLama 3.1 [Link](https://scontent-lga3-2.xx.fbcdn.net/v/t39.2365-6/452387774_1036916434819166_4173978747091533306_n.pdf?_nc_cat=104&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=t6egZJ8QdI4Q7kNvgFoyQP-&_nc_ht=scontent-lga3-2.xx&oh=00_AYApQoV3LKJxSbr5OyC__fGrjVkPa0Ck_zIgLSoN9bE_uw&oe=66A642CD)
 13. 🧠 IncarnaMind [Link](https://github.com/junruxiong/IncarnaMind/tree/main)
+14. Mastering LLMs [Link](https://hamel.dev/blog/posts/course/)
 
 ### Useful LinkedIn Posts:
 
