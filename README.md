@@ -1,5 +1,5 @@
 # 🔥 Quick Notes for ML, DS, MLOps, LLMOps 🔥
-It contains interview preparation notes provided by iNeuron and article links.
+It contains interview preparation notes provided by iNeuron, article links, and others.
 
 ## Important Concepts:
 
