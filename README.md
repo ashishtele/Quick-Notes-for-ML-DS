@@ -112,6 +112,7 @@ It contains interview preparation notes provided by iNeuron, article links, and 
 14. Mastering LLMs [Link](https://hamel.dev/blog/posts/course/)
 15. LongRAG [Link](https://arxiv.org/pdf/2406.15319)
 16. Denser Retriever [Link](https://github.com/denser-org/denser-retriever)
+17. RAG Techniques [Link](https://github.com/NirDiamant/RAG_Techniques)
 
 ### Useful LinkedIn Posts:
 
