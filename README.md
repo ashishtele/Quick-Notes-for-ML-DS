@@ -93,6 +93,7 @@ It contains interview preparation notes provided by iNeuron, article links, and 
 22. Operationalizing Machine Learning [Link](https://arxiv.org/pdf/2209.09125.pdf)
 23. Swirlai [Link](https://www.newsletter.swirlai.com/archive?sort=new)
 24. Twitter Recommendation [Link](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
+25. AskItRight [Link](https://github.com/AbdArdati/PDFQueryAI/tree/main)
 
 ## Foundation Models
 
