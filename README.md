@@ -115,6 +115,7 @@ It contains interview preparation notes provided by iNeuron, article links, and 
 16. Denser Retriever [Link](https://github.com/denser-org/denser-retriever)
 17. RAG Techniques [Link](https://github.com/NirDiamant/RAG_Techniques)
 18. PDF extract [Link](https://github.com/opendatalab/PDF-Extract-Kit)
+19. crawl4ai [Link](https://github.com/unclecode/crawl4ai?tab=readme-ov-file)
 
 ### Useful LinkedIn Posts:
 
