@@ -116,6 +116,7 @@ It contains interview preparation notes provided by iNeuron, article links, and 
 17. RAG Techniques [Link](https://github.com/NirDiamant/RAG_Techniques)
 18. PDF extract [Link](https://github.com/opendatalab/PDF-Extract-Kit)
 19. crawl4ai [Link](https://github.com/unclecode/crawl4ai?tab=readme-ov-file)
+20. NotebookLM [Link](https://notebooklm.google/)
 
 ### Useful LinkedIn Posts:
 
