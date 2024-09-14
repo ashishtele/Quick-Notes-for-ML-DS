@@ -95,7 +95,7 @@ It contains interview preparation notes provided by iNeuron, article links, and 
 24. Twitter Recommendation [Link](https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm)
 25. AskItRight [Link](https://github.com/AbdArdati/PDFQueryAI/tree/main)
 
-## Foundation Models
+## Foundation Models:
 
 1. Stanford LLM [Link](https://stanford-cs324.github.io/winter2023/)
 2. Better Product Search [Link](https://www.databricks.com/blog/enhancing-product-search-large-language-models-llms.html)
