@@ -1,5 +1,5 @@
 # 🔥 Quick Notes for ML, DS, MLOps, LLMOps 🔥
-It contains interview preparation notes provided by iNeuron, article links, and others.
+It contains interview preparation notes from iNeuron, article links, and others.
 
 ## Important Concepts:
 
@@ -142,7 +142,7 @@ This is a critical moment as your results will translate into 3 potential outcom
 
 💡 “Ah, interesting. I guess we’ll have to change requirements/scope then.” Course-correct before moving forward 🟠
 
-💡 “This is what I expected. Let’s go ahead”. Green light 🟢
+💡 “This is what I expected. Let’s go ahead”. Greenlight 🟢
 
 
 [Vin Vashishta:](https://www.linkedin.com/in/vineetvashishta/)
