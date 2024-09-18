@@ -117,6 +117,7 @@ It contains interview preparation notes from iNeuron, article links, and others.
 18. PDF extract [Link](https://github.com/opendatalab/PDF-Extract-Kit)
 19. crawl4ai [Link](https://github.com/unclecode/crawl4ai?tab=readme-ov-file)
 20. NotebookLM [Link](https://notebooklm.google/)
+21. Open Data QA [Link](https://github.com/GoogleCloudPlatform/Open_Data_QnA)
 
 ### Useful LinkedIn Posts:
 
