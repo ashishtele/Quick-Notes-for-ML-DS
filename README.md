@@ -67,7 +67,7 @@ It contains interview preparation notes from iNeuron, article links, and others.
 37. Matt Mochary Method [Link](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/preview?pru=AAABhJXMgQo*wpkvH9cihXuCqm_7HASBVw)
 38. Nubank [Link](https://building.nubank.com.br/data/data-science-machine-learning/)
 
-## ML System Design:
+### ML System Design:
 
 1. Framework [Link](https://leetcode.com/discuss/interview-question/system-design/566057/machine-learning-system-design-a-framework-for-the-interview-day)
 2. Product minded ML design. [Link](https://www.youtube.com/watch?v=Hv54e-9XnZ0&ab_channel=AssociationforComputingMachinery%28ACM%29)
@@ -125,13 +125,9 @@ Understand the business context first, don't get over-excited about the tech, an
 When someone asks you for a model, always ask:
 
 👉 why do you need it? 
-
 👉 what is your current solution (e.g. what is the baseline to beat)?
-
 👉 who is going to use the predictions and how?
-
 👉 what is the financial impact of the model’s downtime or mistakes?
-
 👉 which metrics do we care about to measure what?
 
 Once you have your answers, back them up with a solid exploratory data analysis, and, when done, loop in the biz team again.
@@ -140,9 +136,7 @@ Once you have your answers, back them up with a solid exploratory data analysis,
 This is a critical moment as your results will translate into 3 potential outcomes:
 
 💡 “Really? This contradicts what I thought. Well, in this case, the ML model doesn’t make much sense anymore”. You are off the hook without a single line of code 🔴
-
 💡 “Ah, interesting. I guess we’ll have to change requirements/scope then.” Course-correct before moving forward 🟠
-
 💡 “This is what I expected. Let’s go ahead”. Greenlight 🟢
 
 
