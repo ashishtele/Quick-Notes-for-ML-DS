@@ -26,7 +26,7 @@ It contains interview preparation notes from iNeuron, article links, and others.
 20. Product Sense [Link](https://prodbee.com/index.html)
 21. Tableau-style User Interface for visual exploration [Link](https://github.com/Kanaries/pygwalker)
 
-## Useful blogs to refer:
+## Useful blogs to refer to:
 
 1. Martin Henze (Heads or Tails). [Blog](https://heads0rtai1s.github.io/2020/11/05/r-python-dplyr-pandas/)
 2. Python Snippets. [Link](https://github.com/dushyantkhosla/python-snippets)
