@@ -118,6 +118,7 @@ It contains interview preparation notes from iNeuron, article links, and others.
 19. crawl4ai [Link](https://github.com/unclecode/crawl4ai?tab=readme-ov-file)
 20. NotebookLM [Link](https://notebooklm.google/)
 21. Open Data QA [Link](https://github.com/GoogleCloudPlatform/Open_Data_QnA)
+22. Contexual RAG [Link](https://colab.research.google.com/drive/1hUi7ECRU5fXUZ_9IHN5vMOZz7rVO0Qn-?usp=sharing)
 
 ### Useful LinkedIn Posts:
 
