@@ -144,6 +144,6 @@ This is a critical moment as your results will translate into 3 potential outcom
 
 [Vin Vashishta:](https://www.linkedin.com/in/vineetvashishta/)
 
-“Next year, we have the opportunity to deliver $X in costs savings and revenue.
+“Next year, we have the opportunity to deliver $X in cost savings and revenue.
 Last year we delivered B projects resulting in C revenue and D cost savings.
 We plan to grow that by E%, requiring an F% increase in our total budget to execute.”
