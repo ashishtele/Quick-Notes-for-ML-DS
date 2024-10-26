@@ -132,8 +132,7 @@ When someone asks you for a model, always ask:
 👉 what is the financial impact of the model’s downtime or mistakes?
 👉 which metrics do we care about to measure what?
 
-Once you have your answers, back them up with a solid exploratory data analysis, and, when done, loop in the biz team again.
-
+Once you have your answers, back them up with a solid exploratory data analysis, and when you're done, loop in the business team again.
 
 This is a critical moment as your results will translate into 3 potential outcomes:
 
