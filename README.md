@@ -122,7 +122,7 @@ It contains interview preparation notes from iNeuron, article links, and others.
 23. Long-Context LLMs Meet RAG [Link](https://arxiv.org/pdf/2410.05983)
 24. LLM Systems [Link](https://llmsystem.github.io/llmsystem2025spring/)
 
-### Useful LinkedIn Posts:
+## Useful LinkedIn Posts:
 
 Understand the business context first, don't get over-excited about the tech, and jump into coding too early. 
 When someone asks you for a model, always ask:
